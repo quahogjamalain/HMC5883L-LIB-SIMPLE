@@ -1,0 +1,13 @@
+CONF_REG_A = 0x00;  
+CONF_REG_B = 0x01;  
+MODE_REG = 0x02;  
+DOUT_X_MSB_REG = 0x03;  
+DOUT_X_LSB_REG = 0x04;  
+DOUT_Y_MSB_REG = 0x05;  
+DOUT_Y_LSB_REG = 0x06;  
+DOUT_Z_MSB_REG = 0x07;  
+DOUT_Z_LSB_REG = 0x08;  
+STATUS_REG = 0x09;  
+ID_REG_A = 0x0a;  
+ID_REG_B = 0x0b;  
+ID_REG_C = 0x0c;  
